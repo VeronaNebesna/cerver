@@ -24,6 +24,18 @@
         "description": "Lighthouse 2018",
         "artist": "John Doe",
         "image": "https://raw.githubusercontent.com/VeronaNebesna/TheLook.github.io/master/public/images/4.jpg"
+    },
+    {
+        "id": 5,
+        "description": "Child 2019",
+        "artist": "John Doe",
+        "image": "https://raw.githubusercontent.com/VeronaNebesna/TheLook.github.io/master/public/images/5.jpg"
+    },
+    {
+        "id": 6,
+        "description": "Red Sea 2020",
+        "artist": "John Doe",
+        "image": "https://raw.githubusercontent.com/VeronaNebesna/TheLook.github.io/master/public/images/6.jpg"
     }
       
 
