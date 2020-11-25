@@ -5,13 +5,13 @@
         "id": 1,
         "description": "Red Passion 2017",
         "artist": "John Doe",
-        "image": "https://ibb.co/0fgcMpc][img]https://i.ibb.co/vJ7HPCH/1.jpg[/img"
+        "image": "https://raw.githubusercontent.com/VeronaNebesna/TheLook.github.io/master/public/images/1.jpg"
     },
     {   
         "id": 2,
         "description": "Fruits 2019",
         "artist": "phone",
-        "image": "https://raw.githubusercontent.com/kznkv-skillup/react/gh-pages/images/products/iphone.png"
+        "image": "https://raw.githubusercontent.com/VeronaNebesna/TheLook.github.io/master/public/images/2.jpg"
     }
 
   ],
