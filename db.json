@@ -18,6 +18,12 @@
         "description": "Sea 2018",
         "artist": "John Doe",
         "image": "https://raw.githubusercontent.com/VeronaNebesna/TheLook.github.io/master/public/images/3.jpg"
+    },
+    {
+        "id": 4,
+        "description": "Lighthouse 2018",
+        "artist": "John Doe",
+        "image": "https://raw.githubusercontent.com/VeronaNebesna/TheLook.github.io/master/public/images/4.jpg"
     }
       
 
