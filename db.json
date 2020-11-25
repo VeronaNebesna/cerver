@@ -12,7 +12,14 @@
         "description": "Fruits 2019",
         "artist": "phone",
         "image": "https://raw.githubusercontent.com/VeronaNebesna/TheLook.github.io/master/public/images/2.jpg"
+    },
+    {
+        "id": 3,
+        "description": "Sea 2018",
+        "artist": "John Doe",
+        "image": "https://raw.githubusercontent.com/VeronaNebesna/TheLook.github.io/master/public/images/3.jpg"
     }
+      
 
   ],
   "orders":[],
